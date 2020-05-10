@@ -1,0 +1,223 @@
+img {
+    margin-bottom: -4px;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    background: url(../images/Фон.jpg) fixed;
+    width: 100%;
+    height: 100%;
+}
+
+.header {
+    width: 100%;
+    height: 190px;
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    background: url(../images/logo.jpg) no-repeat center;
+    height: 190px;
+    width: 1164px;
+}
+
+div.nav {
+    display: flex;
+    justify-content: center;
+}
+
+ul.nav {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+ul.nav a {
+    display: block;
+    width: 13.167em;
+    padding: 10px;
+    background-color: #6A8580;
+    border: 1px solid #536C68;
+    border-bottom: 3px solid #536C68;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+ul.nav a:hover {
+    background-color: #5A6E6E;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.bg-color {
+    background: #9AB5B0;
+    height: 100%;
+    width: 1164px;
+    display: flex;
+    background-size: cover;
+}
+
+.int {
+    width: 12em;
+}
+
+ul.int {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+.int-block {
+    display: block;
+    width: 10em;
+    height: 7.5em;
+    padding: 10px;
+    background-color: #6A8580;
+    border: 1px solid #536C68;
+    text-decoration: none;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    margin: 8px 0;
+}
+
+.int-block:hover {
+    background-color: #5A6E6E;
+}
+
+.weather {
+    display: block;
+    width: 10em;
+    height: 9em;
+    padding: 10px;
+    background-color: #6A8580;
+    border: 1px solid #536C68;
+    text-decoration: none;
+    margin-top: 8px;
+}
+
+.content {
+    margin: 16px 32px;
+    text-align: justify;
+}
+
+.img-text {
+    margin: 16px 0 16px 16px;
+}
+
+.img-train {
+    margin: 0 0 16px 16px;
+}
+
+.img-nevejin {
+    margin: 0 16px 0 0;
+}
+
+.img-0km {
+    margin: 0 0 16px 16px;
+}
+
+.img-ilizarov {
+    margin: 0 16px 0 0;
+}
+
+.img-dog {
+    margin: 0 0 16px 16px;
+}
+
+.img-plane {
+    margin: 0 16px 0 0;
+}
+
+.img-filorm {
+    margin: 0 0 16px 16px;
+}
+
+.img-natasha {
+    margin: 0 16px 0 0;
+}
+
+.img-king {
+    margin: 0 0 16px 16px;
+}
+
+.img-sobor {
+    margin: 0 16px 0 0;
+}
+
+.img-gerb {
+    margin: 0 16px 0 0;
+}
+
+.img-flag {
+    margin: 0 0 16px 16px;
+}
+
+.att {
+    margin-bottom: 195px;
+}
+
+.plane {
+    margin-bottom: 32px;
+}
+
+.filorm {
+    margin-bottom: 32px;
+}
+
+.natasha {
+    margin-bottom: 180px;
+}
+
+.king {
+    margin-bottom: 120px;
+}
+
+.sobor {
+    margin-bottom: 32px;
+}
+
+.ilizarov {
+    margin-bottom: 32px;
+}
+
+.peop {
+    margin-bottom: 20px;
+}
+
+
+
+.fact-ol {
+    margin-block-end: 0;
+    padding-inline-start: 0;
+}
+
+.people-ol {
+    margin-block-end: 0;
+    padding-inline-start: 0;
+}
+
+footer {
+    background-color: #6A8580;
+    padding: 8px;
+}
+
+.footer-content {
+    text-align: center;
+    margin: 4px auto;
+    color: #ffffff;
+}
+
